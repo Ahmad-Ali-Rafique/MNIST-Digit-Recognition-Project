@@ -1,3 +1,4 @@
+![Ahmad Ali Rafique](https://github.com/Ahmad-Ali-Rafique/MNIST-Digit-Recognition-Project/blob/main/Digit%20Recognition.png)
 # MNIST Digit Recognition Project
 
 ## Overview
